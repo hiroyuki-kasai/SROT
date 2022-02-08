@@ -22,7 +22,7 @@ Document
 ----------
 The documents of this library can be obtained from below:
 
-- T. Fuunaga and H. Kasai, "," arXiv preprint [arXiv:2103.05857](https://arxiv.org/abs/2103.05857)), 2021.
+- T. Fuunaga and H. Kasai, "Fast block-coordinate Frank-Wolfe algorithm for semi-relaxed optimal transport," arXiv preprint [arXiv:2103.05857](https://arxiv.org/abs/2103.05857), 2021.
 
 - T. Fuunaga and H. Kasai, "Block-coordinate Frank-Wolfe algorithm and convergence analysis for semi-relaxed optimal transpport problem ," IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP), 2022. (Accepted)
 
