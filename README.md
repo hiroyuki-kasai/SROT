@@ -20,7 +20,7 @@ This library of a collection of algorithms of **semi-relaxed optimal oransport (
 
 Document
 ----------
-The document of SGDLibrary can be obtained from below;
+The documents of this library can be obtained from below:
 
 - T. Fuunaga and H. Kasai, "," arXiv preprint [arXiv:2103.05857](https://arxiv.org/abs/2103.05857)), 2021.
 
