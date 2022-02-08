@@ -1,4 +1,4 @@
-# SROT
+# SROT: Library of Semi-Relaxed Optimal Transport
 Library of Semi-Relaxed Optimal Transport
 
 Library for semi-relaxed optimal oransport (srot)
